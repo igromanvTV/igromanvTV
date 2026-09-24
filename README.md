@@ -39,10 +39,17 @@ Stack: C# (WPF / WinForms — GUI), C++
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igromanvTV&show_icons=true&theme=dark&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA&border_color=30363d" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igromanvTV&layout=compact&theme=dark&bg_color=0d1117&title_color=00FFAA&border_color=30363d" width="48%" />
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=igromanvTV&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=igromanvTV&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=igromanvTV&show_icons=true" />
+</picture>
 
 ---
 
